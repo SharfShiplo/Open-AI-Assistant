@@ -1,0 +1,16 @@
+{
+  "name": "open-ai-assistant",
+  "version": "1.0.0",
+  "description": "Your Open-AI assistant.",
+  "main": "mathTeacher.js",
+  "type": "module",
+  "scripts": {
+    "start": "node mathTeacher.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^4.18.0"
+  }
+}
